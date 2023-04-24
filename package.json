@@ -2,6 +2,9 @@
   "name": "p3-petconnect",
   "version": "1.0.0",
   "description": "Newest iteration of PetConnect (working title) and recreating in React",
+  "engines": {
+    "node": "12.x"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
